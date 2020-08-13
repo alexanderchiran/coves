@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/COVES.iml" filepath="$PROJECT_DIR$/COVES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COVES-ear/COVES-ear.iml" filepath="$PROJECT_DIR$/COVES-ear/COVES-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COVES-ejb/COVES-ejb.iml" filepath="$PROJECT_DIR$/COVES-ejb/COVES-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COVES-web/COVES-web.iml" filepath="$PROJECT_DIR$/COVES-web/COVES-web.iml" />
+    </modules>
+  </component>
+</project>

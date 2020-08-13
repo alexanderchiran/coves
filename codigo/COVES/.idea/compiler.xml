@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="COVES-ear" />
+        <module name="COVES-ejb" />
+        <module name="COVES-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="COVES" target="1.8" />
+      <module name="COVES-ear" target="1.7" />
+      <module name="COVES-ejb" target="1.7" />
+      <module name="COVES-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="COVES-ejb" options="-endorseddirs &quot;C:\DEV\DEV\Java\COVES\entrega 21 Junio 2017\codigo\COVES\COVES-ejb\target/endorsed&quot;" />
+      <module name="COVES-web" options="-endorseddirs &quot;C:\DEV\DEV\Java\COVES\entrega 21 Junio 2017\codigo\COVES\COVES-web\target/endorsed&quot;" />
+    </option>
+  </component>
+</project>
